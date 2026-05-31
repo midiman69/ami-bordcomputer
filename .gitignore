@@ -1,7 +1,14 @@
 # Build outputs
 build/
 *.bin
+*.elf
 *.hex
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
 # IDE
 .vscode/
 .idea/
