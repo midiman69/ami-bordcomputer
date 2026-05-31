@@ -1,1 +1,7 @@
-
+# Build outputs
+build/
+*.bin
+*.hex
+# IDE
+.vscode/
+.idea/
